@@ -1,0 +1,5 @@
+Q.1 how to  make an element is html?
+A.1 make an opening and closing tag like this <div> </div>
+
+Q.2 How do we style an element in css?
+A.2. grab the element and give it a property and value

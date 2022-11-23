@@ -1,0 +1,65 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  animation: fade 4s;
+}
+
+@keyframes fade{
+  from {opacity: 0;}
+  to{ opacity: 100;}
+}
+
+#games{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 200px;
+  background-color: red;
+  border: 4px solid black;
+}
+
+#otherprojects{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 200px;
+  background-color: blue;
+  border: 4px solid black;
+  margin-top: 20px;
+}
+
+#animations{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 200px;
+  background-color: green;
+  border: 4px solid black;
+  margin-top: 20px;
+}
+
+#tools{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 200px;
+  background-color: orange;
+  border: 4px solid black;
+  margin-top: 20px;
+}
+
+
+.title{
+  text-align: center;
+}
+#title{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  border-bottom: 2px solid black;
+  width: 400px;
+}
